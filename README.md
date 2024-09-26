@@ -5,7 +5,7 @@ I'm a passionate Python developer with a keen interest in SQL and machine learni
 
 ## 🔧 Technologies & Tools
 - **Languages**: Python, SQL
-- **Frameworks & Libraries**: Pandas, NumPy, Flask
+- **Frameworks & Libraries**: Django,Pandas, NumPy, Flask
 - **Databases**: MySQL, SQLite
 - **Tools**: Git, GitHub, Jupyter Notebook
 
