@@ -19,7 +19,7 @@ I'm currently diving deeper into machine learning concepts and frameworks, inclu
 ![Rohit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
 ## 💬 Connect with Me
-- [LinkedIn]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/rohit-dutta-64b0242a0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
+- [LinkedIn](https://www.linkedin.com/in/rohit-dutta-64b0242a0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ## 📫 How to Reach Me
 Feel free to reach out to me via email at [rohitdutta2103@gmail.com](mailto:rohitdutta2103@gmail.com).
