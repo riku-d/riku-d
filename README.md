@@ -62,3 +62,9 @@ I'm currently diving deeper into machine learning concepts and frameworks, inclu
     <img src="https://img.icons8.com/fluency/48/000000/gmail.png" alt="Email" width="40"/>
   </a>
 </p>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=riku-d&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=riku-d&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=riku-d&theme=radical)
