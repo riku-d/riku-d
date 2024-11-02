@@ -63,8 +63,8 @@ I'm currently diving deeper into machine learning concepts and frameworks, inclu
   </a>
 </p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=riku-d&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=riku-d&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=riku-d&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=riku-d&layout=compact&theme=gruvbox)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=riku-d&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=riku-d&theme=merko)
