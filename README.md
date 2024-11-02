@@ -13,8 +13,12 @@ Currently, I’m excited about advancing my knowledge in **AI** and **data scien
   <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python" width="40"/>
   <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" width="40"/> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL" width="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+
 
 - **Frameworks & Libraries**:  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/django.png" alt="Django" width="40"/>
   <img src="https://img.icons8.com/color/48/000000/pandas.png" alt="Pandas" width="40"/>
   <img src="https://img.icons8.com/color/48/000000/numpy.png" alt="NumPy" width="40"/>
@@ -37,7 +41,7 @@ I'm currently diving deeper into machine learning concepts and frameworks, inclu
 - <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40"/>
 - Data visualization techniques
 
-## GSSOC(24) Badges 🪶
+## 🪶 GSSOC(24) Badges 
 <div align='center'>
 <a href="https://gssoc.girlscript.tech/leaderboard">
 <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" style="margin: 5px;" />
