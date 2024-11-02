@@ -24,7 +24,7 @@ Currently, I’m excited about advancing my knowledge in **AI** and **data scien
   <img src="https://img.icons8.com/color/48/000000/pandas.png" alt="Pandas" width="40"/>
   <img src="https://img.icons8.com/color/48/000000/numpy.png" alt="NumPy" width="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="40"/>
-  ![Flask Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Flask_logo.svg/512px-Flask_logo.svg.png?20200511104322)
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Flask_icon.svg/1024px-Flask_icon.svg.png" alt="Flask Logo" width="40" height="40"/>
 
 - **Databases**:  
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" width="40"/>
@@ -32,7 +32,7 @@ Currently, I’m excited about advancing my knowledge in **AI** and **data scien
 
 - **Tools**:  
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="40"/>
-  ![GitHub Logo](https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg)
+  <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub Logo" width="40" height="40"/>
   <img src="https://img.icons8.com/fluency/48/000000/jupyter.png" alt="Jupyter Notebook" width="40"/>
    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40"/>
 
