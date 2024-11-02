@@ -24,7 +24,7 @@ Currently, I’m excited about advancing my knowledge in **AI** and **data scien
   <img src="https://img.icons8.com/color/48/000000/pandas.png" alt="Pandas" width="40"/>
   <img src="https://img.icons8.com/color/48/000000/numpy.png" alt="NumPy" width="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/pocoo/flask-icon.svg" alt="Flask Logo" width="40" height="40"/>
+  <img src="https://techicons.dev/icons/flask" alt="Flask Logo" width="40" height="40"/>
 
 - **Databases**:  
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" width="40"/>
