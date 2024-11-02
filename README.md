@@ -2,7 +2,7 @@
 
 
 ## About Me
-I'm a dedicated **Python developer** with a strong foundation in **SQL** and a passion for **machine learning**. With experience in both **data analysis** and **web development**, I thrive on building projects that solve real-world problems and drive impact. My skill set spans across **back-end development** with Django and Flask, data manipulation with Pandas and NumPy, and creating intuitive GUIs with Tkinter.
+I'm a dedicated **Python developer** with a strong foundation in **SQL** and a passion for **machine learning**. With experience in both **data analysis** and **web development**, I thrive on building projects that solve real-world problems and drive impact. My skill set spans across **back-end development** with Django and Flask, data manipulation with Pandas and NumPy.
 
 I’m proficient in **database management** using MySQL and SQLite and well-versed in version control with Git and GitHub. I continuously seek to deepen my understanding of machine learning through hands-on work with TensorFlow and Scikit-learn and am honing my skills in data visualization using tools like Matplotlib.
 
@@ -15,6 +15,7 @@ Currently, I’m excited about advancing my knowledge in **AI** and **data scien
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL" width="40"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
 
 
 - **Frameworks & Libraries**:  
