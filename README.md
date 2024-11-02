@@ -1,36 +1,64 @@
-# 👋 Hi, I'm Rohit!
+<h1 align="center">👋 Hi, I'm Rohit!</h1>
+
 
 ## About Me
-I'm a passionate Python developer with a keen interest in SQL and machine learning. I enjoy creating projects that solve real-world problems and constantly seek to improve my skills in programming and data science.
+I'm a dedicated **Python developer** with a strong foundation in **SQL** and a passion for **machine learning**. With experience in both **data analysis** and **web development**, I thrive on building projects that solve real-world problems and drive impact. My skill set spans across **back-end development** with Django and Flask, data manipulation with Pandas and NumPy, and creating intuitive GUIs with Tkinter.
+
+I’m proficient in **database management** using MySQL and SQLite and well-versed in version control with Git and GitHub. I continuously seek to deepen my understanding of machine learning through hands-on work with TensorFlow and Scikit-learn and am honing my skills in data visualization using tools like Matplotlib.
+
+Currently, I’m excited about advancing my knowledge in **AI** and **data science**, focusing on the latest tools and techniques to develop innovative solutions. Let's connect and explore ways to make an impact through technology!
 
 ## 🔧 Technologies & Tools
-- **Languages**: Python, SQL
-- **Frameworks & Libraries**: Django,Pandas, NumPy, Flask
-- **Databases**: MySQL, SQLite
-- **Tools**: Git, GitHub, Jupyter Notebook
+- **Languages**:  
+  <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python" width="40"/>
+  <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" width="40"/> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL" width="40"/> 
+
+- **Frameworks & Libraries**:  
+  <img src="https://img.icons8.com/color/48/000000/django.png" alt="Django" width="40"/>
+  <img src="https://img.icons8.com/color/48/000000/pandas.png" alt="Pandas" width="40"/>
+  <img src="https://img.icons8.com/color/48/000000/numpy.png" alt="NumPy" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="40"/>
+  <img src="https://img.icons8.com/ios-filled/50/000000/flask.png" alt="Flask" width="40"/>
+
+- **Databases**:  
+  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg" alt="SQLite" width="40"/>
+
+- **Tools**:  
+  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="40"/>
+  <img src="https://img.icons8.com/ios-glyphs/50/000000/github.png" alt="GitHub" width="40"/>
+  <img src="https://img.icons8.com/fluency/48/000000/jupyter.png" alt="Jupyter Notebook" width="40"/>
+   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40"/>
 
 ## 🌱 Currently Learning
 I'm currently diving deeper into machine learning concepts and frameworks, including:
-- TensorFlow
-- Scikit-learn
+- <img src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="TensorFlow" width="40"/>
+- <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40"/>
 - Data visualization techniques
 
-# Badge Links
-
-Badge: https://github.com/girlscript/gssoc-website-new/tree/main/public/badges
-
-Each badge link looks like `<img src="url" width="" height="" />`
-
-To customize them, simply copy one from the links below. And adjust the values in `width` and `height` as per your choice. And, make sure to use `px` or `rem`.
-
-## How do I get all in a single line...?
-To increase spacing between, each images update `gap: 10px` to a higher value such as `gap: 20px`.
-To have all of them center aligned, use this
+## GSSOC(24) Badges 🪶
+<div align='center'>
+<a href="https://gssoc.girlscript.tech/leaderboard">
+<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" style="margin: 5px;" />
+<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" style="margin: 5px;" />
+<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" style="margin: 5px;" />
+<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" style="margin: 5px;" />
+<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" style="margin: 5px;" />
+<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" style="margin: 5px;" />
+</a>
+</div>
 
 ## 💬 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/rohit-dutta-64b0242a0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
-## 📫 How to Reach Me
-Feel free to reach out to me via email at [rohitdutta2103@gmail.com](mailto:rohitdutta2103@gmail.com).
-
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/rohit-dutta-64b0242a0/">
+    <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn" width="40"/>
+  </a>
+  <a href="https://github.com/riku-d">
+    <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" alt="GitHub" width="40"/>
+  </a>
+  <a href="mailto:rohitdutta2103@gmail.com">
+    <img src="https://img.icons8.com/fluency/48/000000/gmail.png" alt="Email" width="40"/>
+  </a>
+</p>
