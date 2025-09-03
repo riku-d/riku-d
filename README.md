@@ -19,6 +19,7 @@ I enjoy **transforming data into insights, building AI-powered apps, and develop
 <img src="https://img.icons8.com/color/48/000000/python--v1.png" width="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" width="40"/>
 <img src="https://img.icons8.com/color/48/000000/c-programming.png" width="40"/> 
+<img src="https://www.svgrepo.com/show/349418/java.svg" width="40"/> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="40"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
