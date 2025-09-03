@@ -100,5 +100,12 @@ I enjoy **transforming data into insights, building AI-powered apps, and develop
 </p>  
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=riku-d&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=riku-d&layout=compact&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=riku-d&layout=compact&theme=tokyonight) 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=riku-d&theme=tokyonight)  
+
+## 🧠 LeetCode Stats
+
+<!-- Leetcode readme card -->
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Rohit_dutta?theme=dracula&font=JetBrains%20Mono)](https://leetcode.com/Rohit_dutta/)
+
+---
