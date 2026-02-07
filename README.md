@@ -107,6 +107,6 @@ I enjoy **transforming data into insights, building AI-powered apps, and develop
 ## 🧠 LeetCode Stats
 
 <!-- Leetcode readme card -->
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Rohit_dutta?theme=dracula&font=JetBrains%20Mono)](https://leetcode.com/rohitdutta21/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Rohit_dutta?theme=dracula&font=JetBrains%20Mono)](https://leetcode.com/u/rohitdutta21/)
 
 ---
